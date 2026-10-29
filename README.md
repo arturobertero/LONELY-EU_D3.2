@@ -6,7 +6,7 @@ so a reader who lands on any of them reaches the other two.
 
 | Component | Where | What it holds |
 |---|---|---|
-| Preregistration | OSF, the registration DOI is added on the day of registration | The frozen analysis plan, never edited after registration |
+| Preregistration | OSF, https://doi.org/10.17605/OSF.IO/NK2ZX | The frozen analysis plan, never edited after registration |
 | Archive | Zenodo, https://doi.org/10.5281/zenodo.23769106 | The protocol with its appendices; later the report and its aggregate results |
 | Code | GitHub, https://github.com/arturobertero/LONELY-EU_D3.2 | The analysis code; every release is archived on Zenodo with its own DOI |
 
